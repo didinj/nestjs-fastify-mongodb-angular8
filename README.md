@@ -1,6 +1,6 @@
 # Build a web app using Nestjs, Fastify, MongoDB and Angular 8
 
-Learn to build the efficient, reliable and scalable server-side web app using Nestjs, Fastify, MongoDB and Angular 8. The full tutorial is right [here](). 
+Learn to build the efficient, reliable and scalable server-side web app using Nestjs, Fastify, MongoDB and Angular 8. The full tutorial is right [here](https://www.djamware.com/post/5d2898430707cc5968d9d57f/build-a-web-app-using-nestjs-fastify-mongodb-and-angular-8). 
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
