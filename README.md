@@ -21,7 +21,9 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Modern Full‑Stack: NestJS + Fastify + MongoDB + Angular
+
+Read more article [here]().
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
