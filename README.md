@@ -23,7 +23,7 @@
 
 ## Modern Full‑Stack: NestJS + Fastify + MongoDB + Angular
 
-Read more article [here]().
+Read more article [here](https://www.djamware.com/post/5d2898430707cc5968d9d57f/modern-fullstack-nestjs-fastify-mongodb-angular).
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
